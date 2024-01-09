@@ -8,3 +8,11 @@ input[type = text], input[type = email]{
 .sub-text{
     width: 500px;
 }
+.subscription{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.form-inline input {
+    margin-left: 10px;
+} 

@@ -28,6 +28,9 @@ body{
 .bg-theme{
     background-color: var(--primary-color);
 }
+.bg-secondary-theme{
+    color: var( --secondary-color);
+}
 input[type = text], input[type = email]{
     height: 60px;
     padding-left: 20px;
@@ -39,4 +42,5 @@ input[type = text], input[type = email]{
     border: none;
     font-size: 13px;
     background-color: var(--primary-color);
+    color: white;
 }

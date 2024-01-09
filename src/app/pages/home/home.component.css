@@ -5,3 +5,7 @@
 
     background-color: var(--primary-color);
 }
+.container-latest-post{
+    width: 70%;
+    margin: 0 auto;
+}
